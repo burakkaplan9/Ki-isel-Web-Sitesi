@@ -6,11 +6,11 @@
 
 - Kişisel web sitesidir.
 
-- Çeşitli yazılım dilleri kullanmaktadır.
+- Kullandığı yazılım dilleri eklenmiştir.
 
-- Daha önceki yaptığı projelerdeki başarılarını yazmıştır.
+- Daha önceki yaptığı projelerdeki başarıları eklenmiştir.
 
-- Yaptığı projelerde müşterilerden gelen geri bildirimleri paylaşmıştır.
+- Yaptığı projelerde müşterilerden gelen geri bildirimleri paylaşılmıştır.
 
 - Kişiye ulaşım için iletişim bilgilerini ve profilinin incelencemesi için sosyal medya hesapları eklenmiştir.
 
